@@ -1,4 +1,4 @@
-# GamePlay — AT2-N1 (Desenvolvimento Mobile 2)
+# GamePlay - (Desenvolvimento Mobile 2)
 
 App em React Native + Expo com as 4 telas pedidas no protótipo do Figma:
 
