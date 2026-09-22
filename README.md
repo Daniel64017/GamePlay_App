@@ -1,6 +1,6 @@
 # GamePlay - (Desenvolvimento Mobile 2)
 
-App em React Native + Expo com as 4 telas pedidas no protótipo do Figma:
+App para se conectar com amigos e organizar jogatinas em React Native + Expo com as 4 telas pedidas no protótipo do Figma:
 
 - **Login** — tela de entrada com botão "Entrar com Discord"
 - **Home** — saudação, categorias e lista de partidas agendadas
